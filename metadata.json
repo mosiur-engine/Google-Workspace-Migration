@@ -1,0 +1,5 @@
+{
+  "name": "Workspace Data Transfer",
+  "description": "Transfer Google Drive, Contacts, and Calendar data between Google Workspace accounts.",
+  "requestFramePermissions": []
+}
